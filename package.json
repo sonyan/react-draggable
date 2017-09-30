@@ -70,10 +70,7 @@
     "webpack": "^3.5.5",
     "webpack-dev-server": "^2.7.1"
   },
-  "precommit": [
-    "lint",
-    "test"
-  ],
+  "precommit": [],
   "dependencies": {
     "classnames": "^2.2.5",
     "prop-types": "^15.5.10"
